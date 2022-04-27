@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mysqlite_A</string>
+    <string name="txt_name">NOMBRE</string>
+    <string name="txt_edad">EDAD</string>
+    <string name="txt_save">Grabar</string>
+    <string name="txt_show">Show</string>
+    <string name="txt_show1">MOSTRAR</string>
+</resources>
